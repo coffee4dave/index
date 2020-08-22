@@ -20,3 +20,7 @@ a {
     width: 18rem;
     margin: 2rem 0;
 }
+
+.card p {
+    color: black;
+}
