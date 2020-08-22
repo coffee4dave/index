@@ -1,5 +1,22 @@
+body {
+    background-color: rgb(50, 50, 50);
+}
+
+h1,
+p {
+    color: white;
+}
+
 a {
     display: block;
     width: 200px;
     height: 2em;
+    color: rgb(186, 42, 42);
+    border: 1px grey solid;
+    padding: 0.5rem;
+}
+
+.card {
+    width: 18rem;
+    margin: 2rem 0;
 }
